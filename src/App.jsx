@@ -1,10 +1,12 @@
 import { Fragment } from 'react';
+import { Hero } from './components/Hero';
 import { Navbar } from './nav/Navbar';
 
 function App() {
   return (
     <Fragment>
       <Navbar />
+      <Hero />
     </Fragment>
   );
 }
