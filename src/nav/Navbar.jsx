@@ -3,7 +3,7 @@ import { Fragment } from 'react';
 export const Navbar = () => {
 	return (
 		<Fragment>
-			<nav className='bg-[#323233] h-[44px]'>
+			<nav className='bg-[#323233] h-[44px] fixed left-0 right-0'>
 				<div className='mx-[220px] h-[44px]'>
 					<div className="flex gap-[#24.75] justify-between items-center pt-[4px]">
 						<div>

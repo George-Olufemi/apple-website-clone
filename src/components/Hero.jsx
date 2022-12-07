@@ -3,7 +3,7 @@ import { Fragment } from 'react';
 export const Hero = () => {
 	return (
 		<Fragment>
-			<div className='bg-[url(&#39;/figure.png&#39;)] h-[680px] object-cover bg-center bg-no-repeat'>
+			<div className='bg-[url("/figure.png")] h-[690px] object-cover bg-center bg-no-repeat'>
 				<div className="flex justify-center text-center pt-[60px]">
 					<div>
 						<h1 className="font-[700] text-[52px] leading-[60px] font-[Helvetica Neue] tracking-wide pb-1 text-[#1D1D1F]">iPhone 14</h1>
